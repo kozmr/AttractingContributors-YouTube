@@ -15,6 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
+# Favorite Songs
+Goal - I want to know your favorite actor.
+
+# List of actors
+1. Yamada Yuki
+2. Nishino Nanase
+
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 

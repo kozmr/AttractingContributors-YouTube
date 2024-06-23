@@ -1,2 +1,3 @@
 # Type in your favorite sweets and/or snacks🍬🍭
-gummy / Pure gummy
+gummy / Pure gummy / Skittles
+

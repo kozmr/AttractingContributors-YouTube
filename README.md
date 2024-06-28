@@ -3,3 +3,4 @@ gummy / Pure gummy
 - Crisps
 Hi-Chew
 瓜子
+- Jagariko

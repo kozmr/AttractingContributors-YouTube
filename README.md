@@ -14,3 +14,4 @@
 - 瓜子
 - Jagariko
 - poteti
+- じゃがりこ

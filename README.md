@@ -9,4 +9,4 @@ Patate Chips
 Tea biscuits (Bourbon)
 - Crisps
 Hi-Chew
-瓜子
+- poteti

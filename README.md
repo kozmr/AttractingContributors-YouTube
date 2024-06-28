@@ -9,6 +9,7 @@
 - Patate Chips
 - Tea biscuits (Bourbon)
 - Crisps
+- candy
 - Hi-Chew
 - 瓜子
 - Jagariko

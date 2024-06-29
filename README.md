@@ -10,4 +10,5 @@ Tea biscuits (Bourbon)
 - Crisps
 Hi-Chew
 - poteti
+- じゃがりこ
 - Super cup

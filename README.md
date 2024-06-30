@@ -12,3 +12,4 @@ Hi-Chew
 - poteti
 - じゃがりこ
 - Super cup
+- カントリーマアム

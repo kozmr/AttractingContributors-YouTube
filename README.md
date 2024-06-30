@@ -21,6 +21,7 @@ Goal - I want to know your favorite actor.
 # List of actors
 1. Yamada Yuki
 2. Nishino Nanase
+3. Anne Hathaway
 
 # Example. 
 https://github.com/raux/AttractingContributors-Anime (Anime topic)

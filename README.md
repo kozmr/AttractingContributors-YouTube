@@ -27,3 +27,4 @@ Hikakin</br>
 parako</br>
 Nikuhack</br>
 Beast
+瀬戸弘司 / Koji Seto

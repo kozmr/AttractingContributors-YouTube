@@ -26,5 +26,7 @@ JARUJARU ISLAND</br>
 Hikakin</br>
 parako</br>
 Nikuhack</br>
-Beast
-瀬戸弘司 / Koji Seto
+Beast</br>
+瀬戸弘司 / Koji Seto</br>
+NamibiaCam</br>
+
